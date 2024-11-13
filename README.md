@@ -33,10 +33,3 @@ Provide a brief overview of the project, including its purpose and objectives. D
 
   - **analysis/**: Exploratory analysis and model results
   - **visualization/**: Overview, performance, correlation
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/GregFagan38/data-analytics-template.git
-   ```
