@@ -30,18 +30,6 @@ This folder contains datasets that have been cleaned, transformed, and are ready
   - **min**: Minimum value of the feature.
   - **max**: Maximum value of the feature.
 
-## `additional_data_sources/` Folder
-
-Contains processed versions of additional datasets used in the analysis.
-
-### `additional_data_sources/demographics_processed.csv`
-
-- **Description**: Processed demographics data, which has been merged with the main dataset for deeper analysis.
-- **Contents**:
-  - **region**: Geographical region.
-  - **age_group**: Age bracket of individuals.
-  - **income_level**: Cleaned income level categories.
-
 ## Guidelines for Adding Processed Data
 
 - Ensure each file is well-documented with descriptions of transformations.
