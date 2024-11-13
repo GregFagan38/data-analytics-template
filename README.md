@@ -12,6 +12,7 @@ Provide a brief overview of the project, including its purpose and objectives. D
 
 - **README.md**: Provides an overview of the project, including objectives, structure, usage instructions, and explanations for each file and folder.
 - **.gitignore**: Lists files and directories that should be ignored by Git, such as system files, temporary files, and sensitive data.
+- **.gitattributes**: defines custom attributes for the files, and can control various behaviors related to file handling
 - **CHANGELOG.md**: Record of all project changes and updates.
 - **TODO.md**: Running Checking Tasks to Complete
 
@@ -23,11 +24,15 @@ Provide a brief overview of the project, including its purpose and objectives. D
   - **processed/**: Data after cleaning and processing.
   - **dictionary/**: Data dictionaries explaining dataset fields.
 
-- **notebooks/**: Jupyter Notebooks for data exploration, analysis, and modeling.
+- **src(code)/**: Source code for data processing, modeling, and utility functions.
 
-- **src/**: Source code for data processing, modeling, and utility functions.
+  - **notebooks/**: Jupyter Notebooks for data exploration, analysis, and modeling.
+  - **scripts/**: Specific data processing or model tasks.
 
-- **reports/**: Generated reports, visualizations, and summaries.
+- **reports/**: Holds Analysis and Visualizations
+
+  - **analysis/**: Exploratory analysis and model results
+  - **visualization/**: Overview, performance, correlation
 
 ## Installation
 
