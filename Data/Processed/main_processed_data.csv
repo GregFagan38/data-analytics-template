@@ -1,0 +1,7 @@
+File Name,Description
+main_processed_data.csv,"Primary dataset after cleaning and preprocessing. Includes steps like handling missing values, encoding, and basic transformations."
+
+Column,Description
+id,"Unique identifier for each entry"
+feature_1,"Transformed feature based on raw data (e.g., scaled or encoded)"
+feature_2,"Another cleaned feature"
