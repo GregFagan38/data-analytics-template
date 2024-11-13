@@ -13,6 +13,7 @@ Provide a brief overview of the project, including its purpose and objectives. D
 - **README.md**: Provides an overview of the project, including objectives, structure, usage instructions, and explanations for each file and folder.
 - **.gitignore**: Lists files and directories that should be ignored by Git, such as system files, temporary files, and sensitive data.
 - **CHANGELOG.md**: Record of all project changes and updates.
+- **TODO.md**: Running Checking Tasks to Complete
 
 ### Folder Breakdown
 
