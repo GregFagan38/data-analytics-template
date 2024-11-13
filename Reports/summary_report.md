@@ -1,4 +1,4 @@
-# Summary Report: Data Analysis of [Dataset Name]
+# Summary Report
 
 ## 1. Project Overview
 
@@ -6,7 +6,7 @@ This project involved the analysis of the dataset [Dataset Name], which aimed to
 
 ## 2. Data Overview
 
-The dataset used in this analysis contained [number of rows] rows and [number of columns] columns. The main features included [list important features]. The data was sourced from [source of the data].
+The datasets used in this analysis contained [number of rows] rows and [number of columns] columns. The main features included [list important features]. The data was sourced from [source of the data].
 
 ### Key Statistics:
 
